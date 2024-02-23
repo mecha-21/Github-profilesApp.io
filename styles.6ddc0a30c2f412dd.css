@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box;overflow-y:hidden}.fade-in{opacity:.1;animation:fadeIn .1s ease-in-out}@keyframes fadeIn{0%{opacity:0}to{opacity:1}}ul,ol{list-style:none}body{background-color:#d3d3d3}
+*{margin:0;padding:0;box-sizing:border-box;overflow-y:hidden}body{background-color:#d3d3d3}
